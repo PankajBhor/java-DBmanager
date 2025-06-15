@@ -1,3 +1,3 @@
 create database demo;
-
-drop database demo;
+create table p1(id int[10],name varchar[10]);
+create database de;
