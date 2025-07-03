@@ -1,0 +1,9 @@
+com\tap\pankaj\demo\jdbcupdate_demo.class
+com\tap\pankaj\demo\jdbccreate_demo.class
+com\tap\pankaj\demo\jdbcdrop_demo.class
+com\tap\pankaj\demo\jdbcdelete_demo.class
+com\tap\pankaj\demo\App.class
+com\tap\pankaj\demo\jdbctruncate_demo.class
+com\tap\pankaj\demo\jdbcalter_demo.class
+com\tap\pankaj\demo\jdbcinsert_demo.class
+com\tap\pankaj\demo\jdbcselect_demo.class
